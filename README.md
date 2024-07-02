@@ -7,4 +7,4 @@ use the default guest login
 
 How to hit the endpoints?
 1. Use postman for Json messages
-2. For string messages: http://localhost:8080/api/v1?message=hello world!
+2. For string messages: http://localhost:8080/api/v1/publish?message=hello world!
